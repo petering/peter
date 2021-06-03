@@ -1,2 +1,2 @@
 # peter
-## this is an empty repositry!
+## this is an empty repository!
